@@ -1,5 +1,5 @@
 /*
- *  ZNEAR - note producing controlled by potentiometer - DDS technique used
+ *  ZNEAR - a simple synth - DDS technique used
  *
  *  Author	: WindFish
  *
@@ -1388,7 +1388,7 @@ nokia_lcd_render();
 
 int main(void)
 {
- 	setupSerial();
+ 	//setupSerial();
  	
  	setupPINS();
 	
